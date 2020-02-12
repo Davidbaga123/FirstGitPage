@@ -1,0 +1,20 @@
+.navbar{
+    background-color: maroon;
+}
+a{
+    color: white;
+}
+.no-gutters{
+    margin-left: 0px;
+    padding-left: 0px;
+    
+}
+.size img{
+    height: 20rem;
+}
+.p-size{
+    padding: 5rem;
+}
+
+    
+
